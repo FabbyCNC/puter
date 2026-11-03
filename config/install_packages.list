@@ -1,3 +1,7 @@
+clamav
+clamav-freshclam
+clamd
+clamav-update
 distrobox
 fastfetch
 htop
